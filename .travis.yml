@@ -7,7 +7,7 @@ python:
   - "3.7"
   - "3.8-dev"
   # - "nightly"
-  #- "pypy"
+  # - "pypy"
   # - "pypy3"
 sudo: true
 env:
